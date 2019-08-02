@@ -1,0 +1,10 @@
+1: 14 Sec
+2: 12 Sec
+3: 13 Sec
+4: 15 Sec
+5: 13 Sec
+6: 13 Sec
+7: 14 Sec
+8: 15 Sec
+9: 15 Sec
+10: 14 Sec
